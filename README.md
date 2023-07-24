@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Lucia-Ay/Lucia-Ay/blob/main/Github%20animated%20img.gif">
 
-- 👨‍💻 I’m a self-taught programmer, just a little bit rusty so I am going through everything again...
+- 👨‍💻 I’m a self-taught programmer, just a little bit rusty so I am going through some concepts again...
 
 - 🔭 I’m currently working on **a Next.js 13 app**
 
