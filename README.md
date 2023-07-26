@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js 13 & TypeScript**
 
-- 👯 I’m looking to collaborate on **an open source code**
+- 👯 I’m looking to collaborate on **open source code**
 
 - 💬 Ask me about **JavaScript, React**
   
