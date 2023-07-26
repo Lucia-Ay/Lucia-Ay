@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **Next.js 13 & TypeScript**
 
+- 👯 I’m looking to collaborate on **an open source code**
+
+- 💬 Ask me about **JavaScript, React**
+  
 - ⚡ Fun facts : **I read lots of mystery/thrillers & like the color purple**
 
 <h3 align="left">Languages and Tools:</h3>
