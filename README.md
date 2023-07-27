@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source code**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript & React, or simply for book recs**
   
 - ⚡ Fun facts : **I read lots of mystery/thrillers & like the color purple**
 
