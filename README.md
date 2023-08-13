@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Next.js 13 app**
 
-- 🌱 I’m currently learning **Next.js 13 & TypeScript**
+- 🌱 I’m currently learning **C, Next.js 13, TypeScript**
 
 - 👯 I’m looking to collaborate on **open source code**
 
