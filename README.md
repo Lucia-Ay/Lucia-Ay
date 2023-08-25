@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m a self-taught programmer
 
-- 🔭 I’m currently working on **a Next.js 13 app**
+- 🔭 I’m currently working on **a Recipe app**
 
 - 🌱 I’m currently learning **C, Next.js 13, TypeScript**
 
