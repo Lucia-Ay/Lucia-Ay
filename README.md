@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a recipe site**
 
-- 🌱 I’m currently learning **C & Next.js 13**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **open source code**
 
