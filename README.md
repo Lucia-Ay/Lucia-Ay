@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m a self-taught programmer
 
-- 🔭 I’m currently working on **Todo App**
+- 🔭 I’m currently working on a **Quiz App**
 
 - 🌱 I’m currently learning **Flutter**
 
