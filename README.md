@@ -5,12 +5,14 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Lucia-Ay/Lucia-Ay/blob/main/Github%20animated%20img.gif">
 
 - 👨‍💻 I work at **Tovmo**
+
 - 💡 I build things with **JavaScript**, **React**, and **Oracle APEX**
+  
 - 🧠 Always learning something new — lately diving deeper into **clean design systems**
-- 👯 I’m open to collaborating on **open-source projects**
+  
 - 💬 Ask me about **frontend architecture**, **UI/UX**, or what book you should read next
-- 📚 Outside of code, I love **reading** and the color **purple**
-- 💜 Fun fact: I read... a lot. And yes, **purple > all other colors**
+  
+- 📚💜 Fun fact: I read... a lot. And yes, **purple > all other colors**
 
 
 <h3 align="left">Languages and Tools:</h3>
